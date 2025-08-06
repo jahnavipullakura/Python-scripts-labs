@@ -1,0 +1,4 @@
+Summary Report
+====================
+file1.txt | Lines: 1 | Words: 11
+file2.txt | Lines: 0 | Words: 0
